@@ -1,0 +1,53 @@
+Task to complete from Mining Game
+
+Steps i want to accomplish
+1) a weapon system, that universally handles weapon items,  inventory(amount, type, weight)
+2) a tool system, that universally handles tool items, inventory(amount, type, weight)
+3) an item system that handles items with weights in kilograms and amounts
+4 pick up and drop All types of items and a weapon cycle bar that has 5 slots
+5) and inventory system  have has the inventory working within the systems
+6) m4a1 bullet fix
+7) change level scenes working properly and have a SaveData.gd that interpolates with this
+8) mining drill fix
+9) health system that interacts with UI
+10) deep learning system for pedestrians that learn to walk on paths and some times cross over road path  and walk into buildings and stuff
+11) pupil dilation with flight or fight range system
+12) pedestrian health
+https://www.youtube.com/watch?v=qwrp3lB-jkQ
+13) save this for later: allow for pedestrians to purchase items from shops
+14) tactical response have state of guard and pursue with tactical armored van to hold 6 units that respond to murders
+15) building damage like worms destruction, and spew out parts of rubble that the player can collect
+16) allow for the drill to drill and do destructions to mine walls where particles spew out of the wall and go around the player and turn in to clumps of rocks that pile up in larger amounts via drill destruction
+17) allign a path for the rocks to be place on rock grinder that has particles on the grinders and a coveyer that moves the rocks up the conveyer then turns into grinded minerals instead of rocks where a randi function to make larger amounts of minerals
+
+
+1)fix the animations for the M4 so the attachments are in the correct positions
+2)fix the angle of the gun so it doesnt shoot backwards
+3)fix the muzzle so its at position of gun barrel and silencer
+
+4) fix drilling animations so they play, accomplish the drill so when holding it it can drill in an idle position
+5) fix the drill so it has a drilling animation for both idle and pushing into the wall
+6) allow for the drill to drill into the wall and play the particles when drill, and fix the particles so it doesnt push the player backwards and draws particles in a line
+7) allow for the drill to cause destruction in to the wall and damages the tileset like this
+https://godotengine.org/qa/23430/destructable-terrain-rigidbody2d-character-that-follows
+Destructable 2D Terrain and a RigidBody2d character that follows it...
+
+So much fun 🙂 Godot 3.0 Stable I'm making a lemmings type concept. I will be using a ... advice / direction would be much appreciated. Thank you...
+https://github.com/MattUV/DestructibleTerrainPhysics
+Destructable 2D Terrain and a RigidBody2d character that follows it...
+
+So much fun :-) Godot 3.0 Stable I'm making a lemmings type concept. I will be using a ... advice / direction would be much appreciated. Thank you...
+GitHub
+GitHub - MattUV/DestructibleTerrainPhysics: Godot destructible obje...
+Godot destructible objects that react to physics. Contribute to MattUV/DestructibleTerrainPhysics development by creating an account on GitHub.
+GitHub - MattUV/DestructibleTerrainPhysics: Godot destructible obje...
+https://www.youtube.com/watch?v=aBxk-n61SjM
+
+
+8) allow for the inventory system to work so that there is a 5 slot inventory at the bottom middle of the screen and the big inventory that items
+can be pick up and put into the inventory
+9) mods section for the inventory
+10) bullet ammunition, a box at the side of the inventory that has 30-50 bullet boxes showing round bullet bases and a box with a magazien clip and load bullets into the magazine put in or take out individually
+11) allow for mining rocks to appear when mining that pile around the player when drilling then pck up different sizes of rocks in kg then can pick piles orf rocks then can prees e onto the rock grinder then follows a path through the conveyer of the machine and into the grinder where particles of the rocks appear then spit out granulated minerals that can be picked up
+12) pedestrians with health and player with healthwith a health bar above there heads
+13) and beable to purchase items from shops
